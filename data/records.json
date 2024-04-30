@@ -1,0 +1,56 @@
+{"Records": [
+    {
+        "Player 1 win?": false,
+        "Combo": "null",
+        "Player 2": "Ryu",
+        "Player 1": "Jamie"
+    },
+    {
+        "Player 1 win?": true,
+        "Combo": {
+            "Moves": [
+                "c.HP",
+                "qcf.HK",
+                "qcfqcf.HP",
+                "DR",
+                "c.HP",
+                "qcb.HP",
+                "DR",
+                "c.HP",
+                "qcf.LK"
+            ],
+            "Character": "Jamie",
+            "Follow Up": [
+                "Punish counter",
+                "Safe Jump"
+            ]
+        },
+        "Player 2": "Ryu",
+        "Player 1": "Jamie"
+    },
+    {
+        "Player 1 win?": true,
+        "Combo": {
+            "Moves": [
+                "c.S",
+                "2HS",
+                "236S",
+                "j,D",
+                "c.S",
+                "236HS",
+                "->H",
+                "63214HS"
+            ],
+            "Character": "Anji Mito",
+            "Follow Up": ["Wall Break"]
+        },
+        "Player 2": "Ky Kiske",
+        "Player 1": "Anji Mito"
+    },
+    {
+        "Player 1 win?": true,
+        "Combo": "null",
+        "Player 2": "Doug",
+        "Player 1": "Doug"
+    }
+]}
